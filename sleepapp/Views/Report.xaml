@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="sleepapp.Views.Report">
+    <ScrollView>
+        <StackLayout>
+        <Label Text="How did you wake up this morning?" FontSize="Medium" />
+        <Picker x:Name="WakeUpPicker" SelectedItem="{Binding Wakeup}">
+            <Picker.Items>
+                <x:String>On my own</x:String>
+                <x:String>Alarm</x:String>
+                <x:String>External noises</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="How many hours did you sleep?" FontSize="Medium"/>
+        <Entry x:Name="HoursEntry" Placeholder="hours (0-12)" Keyboard="Numeric" Text="{Binding Hours}"/>
+        <Entry x:Name="MinutesEntry" Placeholder="minutes (0-60)" Keyboard="Numeric" Text="{Binding Minutes}" />
+
+        <Label Text="How many times did you wake up during the night?" FontSize="Medium"/>
+        <Picker x:Name="WakeUpTimes" SelectedItem="{Binding WakeUpTimes}" >
+            <Picker.Items>
+                <x:String>1</x:String>
+                <x:String>2</x:String>
+                <x:String>3</x:String>
+                <x:String>4</x:String>
+                <x:String>5</x:String>
+                <x:String>6</x:String>
+                <x:String>7</x:String>
+                <x:String>More than 7</x:String>
+            </Picker.Items>
+        </Picker>
+
+
+        <Label Text="How sound was your sleep?" FontSize="Medium"/>
+        <Picker x:Name="SleepSoundPicker" SelectedItem="{Binding Sounds}">
+            <Picker.Items>
+                <x:String>extremely light</x:String>
+                <x:String>very light</x:String>
+                <x:String>light</x:String>
+                <x:String>average</x:String>
+                <x:String>sound</x:String>
+                <x:String>very sound</x:String>
+                <x:String>extremely sound</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="How refreshed did you feel after sleep?" FontSize="Medium" />
+        <Picker x:Name="RefreshedPicker" SelectedItem="{Binding Feel}">
+            <Picker.Items>
+                <x:String>not refreshed at all</x:String>
+                <x:String>slightly refreshed</x:String>
+                <x:String>somewhat refreshed</x:String>
+                <x:String>refreshed</x:String>
+                <x:String>moderately refreshed</x:String>
+                <x:String>very refreshed</x:String>
+                <x:String>extremely refreshed</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label Text="Overall sleep rating for last night" FontSize="Medium" />
+        <Picker x:Name="SleepRatingPicker" SelectedItem="{Binding Rating}">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>😢 Bad</x:String>
+                    <x:String>😐 Not Bad</x:String>
+                    <x:String>🙂 OK</x:String>
+                    <x:String>😀 Good</x:String>
+                    <x:String>😁 Great</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+        
+        <Button Text="Save" Clicked="OnSubmitButtonClicked" />
+        <Button Text="Go to Weekly Tips" Command="{Binding NavigateToWeeklyTipsCommand}" IsVisible="{Binding IsWeeklyNotificationTriggered}" />
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

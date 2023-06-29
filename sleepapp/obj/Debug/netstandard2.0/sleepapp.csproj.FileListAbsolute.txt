@@ -1,0 +1,484 @@
+D:\Xamarin\sleepapp\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+C:\Xamarin\sleepapp03\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+C:\Xamarin\sleepapp03\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+C:\Xamarin\sleepapp03\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+C:\Xamarin\sleepapp03\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+C:\Xamarin\sleepapp04\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+C:\Xamarin\sleepapp04\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+C:\Xamarin\sleepapp04\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+C:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp04\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 316\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp04 - 316\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 316\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 316\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 316 - Copy\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 320working\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp04 - 320working\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 320working\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp04 - 320working\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -322\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -322\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -322\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -322\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -328\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -328\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -328\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -328\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -329\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -329\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -329\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -329\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -331\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -331\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -331\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -331\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -42\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -42\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -42\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -42\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -43\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -43\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -43\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -43\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -43 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -411\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -411\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -411\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -411\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+D:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+E:\Xamarin\sleepapp -411 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -414\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp -414\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp -414\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp -414\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -419\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp -419\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp -419\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\Views\Tips.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp -419\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -426\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp -426\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp -426\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp -426\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp-426\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-426\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-426\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-426 - Copy (2)\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-509\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp-509\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-509\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-509\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-613\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp-613\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-613\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-613\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-629\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp-629\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-629\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\Views\ViewA.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\Views\ViewB.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-629\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sleepapp-629 - Copy\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sample01\sleepapp\bin\Debug\netstandard2.0\sleepapp.deps.json
+G:\Xamarin\sample01\sleepapp\bin\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sample01\sleepapp\bin\Debug\netstandard2.0\sleepapp.pdb
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.AssemblyReference.cache
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\Views\Notif.xaml.g.cs
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\Views\Report.xaml.g.cs
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\Views\WeeklyTips.xaml.g.cs
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfoInputs.cache
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.AssemblyInfo.cs
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.csproj.CoreCompileInputs.cache
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.dll
+G:\Xamarin\sample01\sleepapp\obj\Debug\netstandard2.0\sleepapp.pdb

@@ -1,0 +1,10 @@
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\sleepapp.csproj.AssemblyReference.cache
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\sleepapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\App.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\Views\MainPage.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\Views\Notif.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\Views\ViewA.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\Views\ViewB.xaml.g.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\sleepapp.AssemblyInfoInputs.cache
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\sleepapp.AssemblyInfo.cs
+D:\Xamarin\sleepapp04 - 316_new\sleepapp\obj\Debug\netstandard2.1\sleepapp.csproj.CoreCompileInputs.cache
