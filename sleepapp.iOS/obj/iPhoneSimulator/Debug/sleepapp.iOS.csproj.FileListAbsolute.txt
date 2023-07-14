@@ -1,412 +1,391 @@
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.exe
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\DryIoc.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Options.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotification.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Essential.Interfaces.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.dll
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.pdb
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.AssemblyReference.cache
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CoreCompileInputs.cache
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CopyComplete
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.exe
-D:\Xamarin\sleepapp04 - 316_new\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.exe
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\DryIoc.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Options.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotification.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Essential.Interfaces.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.dll
-D:\Xamarin\sleepapp -329\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.pdb
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.AssemblyReference.cache
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CoreCompileInputs.cache
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CopyComplete
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.exe
-D:\Xamarin\sleepapp -329\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.exe
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.S3.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.S3.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ClosedXML.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\DocumentFormat.OpenXml.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\DryIoc.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.DataSet.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.DataSet.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelNumberFormat.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Irony.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Options.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotification.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\SixLabors.Fonts.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.IO.Packaging.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Essential.Interfaces.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\XLParser.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.dll
-G:\Xamarin\sleepapp-426\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.pdb
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.AssemblyReference.cache
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CoreCompileInputs.cache
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CopyComplete
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.exe
-G:\Xamarin\sleepapp-426\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.exe
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.S3.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.S3.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ClosedXML.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\DocumentFormat.OpenXml.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\DryIoc.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.DataSet.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.DataSet.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelNumberFormat.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Irony.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.Abstractions.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Options.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotification.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\SixLabors.Fonts.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.IO.Packaging.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Essential.Interfaces.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\XLParser.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.dll
-G:\Xamarin\sleepapp-509\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.pdb
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.AssemblyReference.cache
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CoreCompileInputs.cache
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CopyComplete
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.exe
-G:\Xamarin\sleepapp-509\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.exe
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.iOS.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentity.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.CognitoIdentityProvider.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Core.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.DynamoDBv2.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.Lambda.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.S3.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.S3.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\AWSSDK.SecurityToken.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ClosedXML.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\DocumentFormat.OpenXml.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\DryIoc.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.DataSet.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelDataReader.DataSet.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ExcelNumberFormat.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Irony.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Options.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Microsoft.Extensions.Primitives.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Plugin.LocalNotification.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.DryIoc.Forms.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Prism.Forms.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\SixLabors.Fonts.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Buffers.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.IO.Compression.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.IO.Packaging.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Memory.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Net.Http.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Essentials.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Essential.Interfaces.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.pdb
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\XLParser.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.dll
+G:\Xamarin\sample01\sleepapp.iOS\bin\iPhoneSimulator\Debug\sleepapp.pdb
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\actool\_ProcessedImageAssetsPath.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Contents.json.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-20x20@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-20x20@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-20x20@3x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-29x29@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-29x29@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-29x29@3x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-40x40@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-40x40@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-40x40@3x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-57x57@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-57x57@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-60x60@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-60x60@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-60x60@3x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-72x72@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-72x72@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-76x76@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-76x76@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-76x76@3x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-App-83.5x83.5@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50x50@1x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\Icon-Small-50x50@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\ItunesArtwork@2x.png.ResolveUTIs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\ibtool\_ProcessedInterfaceDefinitionsPath.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\coremlc\_ProcessedCoreMLModelsPath.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedBundleResourcesPath.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\_ProcessedContentPath.items
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\LaunchIcon@1x.png
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\LaunchIcon@2x.png
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\LaunchIcon@3x.png
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\optimized\
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.AssemblyReference.cache
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CoreCompileInputs.cache
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.csproj.CopyComplete
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.exe
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\sleepapp.iOS.pdb
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.CognitoIdentity.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.CognitoIdentity.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.CognitoIdentityProvider.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.CognitoIdentityProvider.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.Core.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.Core.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.DynamoDBv2.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.DynamoDBv2.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.Lambda.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.Lambda.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.S3.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.S3.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.SecurityToken.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\AWSSDK.SecurityToken.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\ClosedXML.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\DocumentFormat.OpenXml.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\DryIoc.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\ExcelDataReader.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\ExcelDataReader.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\ExcelDataReader.DataSet.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\ExcelDataReader.DataSet.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\ExcelNumberFormat.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Irony.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Bcl.AsyncInterfaces.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Extensions.DependencyInjection.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Extensions.DependencyInjection.Abstractions.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Extensions.Logging.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Extensions.Logging.Abstractions.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Extensions.Options.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Microsoft.Extensions.Primitives.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Newtonsoft.Json.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Plugin.LocalNotification.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Prism.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Prism.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Prism.DryIoc.Forms.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Prism.DryIoc.Forms.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Prism.Forms.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Prism.Forms.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\SixLabors.Fonts.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.Buffers.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.Diagnostics.DiagnosticSource.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.IO.Compression.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.IO.Packaging.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.Memory.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.Net.Http.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\System.Runtime.CompilerServices.Unsafe.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Essentials.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Essentials.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Essential.Interfaces.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Core.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Core.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Platform.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Platform.iOS.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Platform.iOS.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Xaml.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Xaml.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Xamarin.Forms.Platform.iOS.resources.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\XLParser.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\sleepapp.dll.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\sleepapp.pdb.ReferenceCopyLocalPaths.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\sleepapp.iOS.pdb.DebugSymbolsProjectOutputGroupOutput.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Entitlements.plist.NoneOutput.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\CopyFilesToMac\Info.plist.NoneOutput.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.CognitoIdentity.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.CognitoIdentityProvider.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.Core.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.DynamoDBv2.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.Lambda.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.S3.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\AWSSDK.SecurityToken.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\ClosedXML.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\DocumentFormat.OpenXml.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\DryIoc.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Essential.Interfaces.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\ExcelDataReader.DataSet.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\ExcelDataReader.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\ExcelNumberFormat.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Irony.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Bcl.AsyncInterfaces.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Extensions.DependencyInjection.Abstractions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Extensions.DependencyInjection.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Extensions.Logging.Abstractions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Extensions.Logging.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Extensions.Options.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Extensions.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\mscorlib.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Newtonsoft.Json.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\OpenTK-1.0.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Plugin.LocalNotification.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Prism.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Prism.DryIoc.Forms.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Prism.Forms.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\SixLabors.Fonts.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Buffers.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Core.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.DiagnosticSource.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Drawing.Common.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.Compression.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.Packaging.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Memory.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Http.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Numerics.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.CompilerServices.Unsafe.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Xamarin.Essentials.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Xamarin.Forms.Core.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Xamarin.Forms.Platform.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Xamarin.Forms.Platform.iOS.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Xamarin.Forms.Xaml.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Xamarin.iOS.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\XLParser.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Win32.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Win32.Registry.AccessControl.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\Microsoft.Win32.Registry.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\netstandard.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.AppContext.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Collections.Concurrent.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Collections.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Collections.NonGeneric.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Collections.Specialized.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ComponentModel.Annotations.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ComponentModel.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ComponentModel.EventBasedAsync.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ComponentModel.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ComponentModel.TypeConverter.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Console.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Data.Common.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Data.SqlClient.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.Contracts.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.Debug.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.FileVersionInfo.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.Process.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.StackTrace.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.TextWriterTraceListener.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.Tools.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.TraceEvent.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.TraceSource.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Diagnostics.Tracing.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Drawing.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Dynamic.Runtime.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Globalization.Calendars.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Globalization.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Globalization.Extensions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.Compression.ZipFile.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.FileSystem.AccessControl.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.FileSystem.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.FileSystem.DriveInfo.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.FileSystem.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.FileSystem.Watcher.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.IsolatedStorage.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.MemoryMappedFiles.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.Pipes.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.IO.UnmanagedMemoryStream.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Linq.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Linq.Expressions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Linq.Parallel.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Linq.Queryable.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.AuthenticationManager.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Cache.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.HttpListener.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Mail.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.NameResolution.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.NetworkInformation.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Ping.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Requests.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Security.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.ServicePoint.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Sockets.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.Utilities.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.WebHeaderCollection.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.WebSockets.Client.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Net.WebSockets.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ObjectModel.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.DispatchProxy.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.Emit.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.Emit.ILGeneration.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.Emit.Lightweight.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.Extensions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Reflection.TypeExtensions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Resources.Reader.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Resources.ReaderWriter.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Resources.ResourceManager.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Resources.Writer.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.CompilerServices.VisualC.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Extensions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Handles.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.InteropServices.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.InteropServices.RuntimeInformation.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.InteropServices.WindowsRuntime.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Loader.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Numerics.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Serialization.Formatters.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Serialization.Json.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Serialization.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Serialization.Xml.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.AccessControl.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Claims.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Algorithms.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Cng.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Csp.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.DeriveBytes.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Encoding.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Encryption.Aes.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Encryption.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Encryption.ECDiffieHellman.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Encryption.ECDsa.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Hashing.Algorithms.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Hashing.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.OpenSsl.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Pkcs.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.ProtectedData.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.RandomNumberGenerator.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.RSA.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Cryptography.X509Certificates.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Principal.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.Principal.Windows.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Security.SecureString.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ServiceModel.Duplex.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ServiceModel.Http.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ServiceModel.NetTcp.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ServiceModel.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ServiceModel.Security.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ServiceProcess.ServiceController.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Text.Encoding.CodePages.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Text.Encoding.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Text.Encoding.Extensions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Text.RegularExpressions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.AccessControl.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.Overlapped.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.Tasks.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.Tasks.Extensions.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.Tasks.Parallel.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.Thread.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.ThreadPool.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Threading.Timer.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.ValueTuple.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.ReaderWriter.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.XDocument.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.XmlDocument.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.XmlSerializer.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.XPath.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.XPath.XDocument.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.XPath.XmlDocument.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Xml.Xsl.Primitives.stamp
+G:\Xamarin\sample01\sleepapp.iOS\obj\iPhoneSimulator\Debug\resourcestamps\System.Runtime.Serialization.stamp

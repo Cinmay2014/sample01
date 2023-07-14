@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="sleepapp.iOS.app/sleepapp.iOS">
+      <BCSymbolMapName>sleepapp.iOS.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>sleepapp.iOS.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>\Users\yidong_zhu\Library\Caches\Xamarin\mtbs\builds\sleepapp.iOS\c351af8a82d11b2e01c69ade61ef4a393a3f79449199ce1ff01e636ee4924e6b\obj\iPhoneSimulator\Debug\mtouch-symbols.list</SymbolFile>
+      <DSymName>sleepapp.iOS.app.dSYM</DSymName>
+      <SourceProjectPath>G:\Xamarin\sample01\sleepapp.iOS</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

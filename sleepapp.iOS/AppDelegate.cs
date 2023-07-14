@@ -1,4 +1,5 @@
 ﻿using Foundation;
+using Plugin.LocalNotification;
 using Prism;
 using Prism.Ioc;
 using UIKit;
@@ -22,9 +23,16 @@ namespace sleepapp.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+            LocalNotificationCenter.SetUserNotificationCenterDelegate();
             LoadApplication(new App(new iOSInitializer()));
 
             return base.FinishedLaunching(app, options);
+        }
+
+        public override void WillEnterForeground(UIApplication uiApplication)
+        {
+            LocalNotificationCenter.ResetApplicationIconBadgeNumber(uiApplication);
+            base.WillEnterForeground(uiApplication);
         }
         public override bool OpenUrl(UIApplication app, NSUrl url, NSDictionary options)
         {

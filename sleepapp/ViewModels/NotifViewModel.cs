@@ -162,10 +162,13 @@ namespace sleepapp.ViewModels
 
         private async void SetNotification()
         {
-            ScheduleNotification(_title1,_message1,NotifyTime1, _notificationId1,  "my_channel_01", TimeSpan.FromDays(1));
-            ScheduleNotification(_title2,_message2, NotifyTime2, _notificationId2,  "my_channel_02", TimeSpan.FromDays(1));
-            ScheduleNotification(_title3,_message3, NotifyTime3, _notificationId3,  "my_channel_03", TimeSpan.FromDays(7));
-            
+            //ScheduleNotification(_title1,_message1,NotifyTime1, _notificationId1,  "my_channel_01", TimeSpan.FromDays(1));
+            //ScheduleNotification(_title2,_message2, NotifyTime2, _notificationId2,  "my_channel_02", TimeSpan.FromDays(1));
+            //ScheduleNotification(_title3,_message3, NotifyTime3, _notificationId3,  "my_channel_03", TimeSpan.FromDays(7));
+            ScheduleNotification(_title1, _message1, NotifyTime1, _notificationId1, "my_channel_01");
+            ScheduleNotification(_title2, _message2, NotifyTime2, _notificationId2, "my_channel_02");
+            ScheduleNotification(_title3, _message3, NotifyTime3, _notificationId3, "my_channel_03");
+
 
             IsNotifSet = true;
             Preferences.Set("IsNotifSet", IsNotifSet);
@@ -174,8 +177,9 @@ namespace sleepapp.ViewModels
 
         }
 
-        
-        private void ScheduleNotification(string title,string message,TimeSpan notifyTime, int notificationId,  string channelId, TimeSpan repeatInterval)
+        //add async &await -0706
+        //private async void ScheduleNotification(string title,string message,TimeSpan notifyTime, int notificationId,  string channelId, TimeSpan repeatInterval)
+        private async void ScheduleNotification(string title, string message, TimeSpan notifyTime, int notificationId, string channelId)
         {
             
             DateTime notifyDateTime = DateTime.Today.Add(notifyTime);
@@ -187,27 +191,39 @@ namespace sleepapp.ViewModels
             }
 
 
+            if (await LocalNotificationCenter.Current.AreNotificationsEnabled() == false)
+            {
+                await LocalNotificationCenter.Current.RequestNotificationPermission();
+            }
 
-
+            // Set repeat type based on notificationId
+            var repeatType = (notificationId == _notificationId1 || notificationId == _notificationId2)
+                ? NotificationRepeat.Daily
+                : NotificationRepeat.Weekly;
 
             // Schedule the notification
             var notification = new NotificationRequest
             {
                 NotificationId = notificationId,
-             
-                Title= title,
+
+
+                Title = title,
                 Description = message,
-                ReturningData="Dummy",
+                ReturningData= notificationId.ToString(),
+                
                 Schedule = new NotificationRequestSchedule
                 {
                     NotifyTime = notifyDateTime,
-                    RepeatType = NotificationRepeat.TimeInterval,
-                    NotifyRepeatInterval = repeatInterval
-                    
-                   
+                    RepeatType=repeatType,
+                    //RepeatType = NotificationRepeat.Daily,
+                    //NotifyRepeatInterval = repeatInterval
+
+
                 },
                 Android = { ChannelId = channelId,
                 Priority= AndroidPriority.High},
+                iOS = {Priority = Plugin.LocalNotification.iOSOption.iOSPriority.TimeSensitive, ApplyBadgeValue=true,PresentAsBanner=true,PlayForegroundSound=true,ShowInNotificationCenter=true},
+
                 CategoryType = NotificationCategoryType.Status,
                
 
@@ -215,7 +231,7 @@ namespace sleepapp.ViewModels
 
 
             
-            LocalNotificationCenter.Current.Show(notification);
+            await LocalNotificationCenter.Current.Show(notification);
             
         }
 

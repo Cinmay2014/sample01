@@ -57,13 +57,13 @@ namespace sleepapp
                 {
                     return;
                 }
-                //if (e.Request.NotificationId == 88)
-                if (e.Request.Android.ChannelId== "my_channel_01")
+                if (e.Request.NotificationId == 88)
+                
                 {
                     
                     return;
                 }
-                else if (e.Request.Android.ChannelId== "my_channel_02")
+                else if (e.Request.NotificationId == 89)
                 {
                     
                     await NavigationService.NavigateAsync("/Report");

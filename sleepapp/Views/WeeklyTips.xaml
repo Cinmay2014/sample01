@@ -12,8 +12,9 @@
         <Grid>
 
             <StackLayout>
-                <Label x:Name="TitleLabel" Text="weekly tips" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center" VerticalTextAlignment="Center" />
+                <Label x:Name="TitleLabel" Text="{Binding Title}" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center" VerticalTextAlignment="Center" />
 
+                <Label x:Name="MessageLabel" Text="{Binding Message}" FontSize="Medium" HorizontalOptions="Center" VerticalTextAlignment="Center"/>
 
 
 

@@ -5,6 +5,14 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="tips.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="tips.xlsx" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AWSSDK.CognitoIdentity" Version="3.7.100.147" />
     <PackageReference Include="AWSSDK.CognitoIdentityProvider" Version="3.7.101.147" />
     <PackageReference Include="AWSSDK.Core" Version="3.7.107.9" />
